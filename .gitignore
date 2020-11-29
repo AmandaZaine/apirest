@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### Zai ###
-./src/main/resources/application.properties
+application.properties
