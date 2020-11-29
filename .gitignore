@@ -34,4 +34,4 @@ build/
 
 ### Zai ###
 application.properties
-SwaggerConfig
+SwaggerConfig.java
